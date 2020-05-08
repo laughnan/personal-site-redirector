@@ -1,1 +1,5 @@
+# redirect fallback
+/:code                                                                                                      /.netlify/functions/redirect/:code
+
+# ultimate fallback
 /*                                                                                                          https://www.notion.so/Alex-Laughnan-eef5994a54db4940abee2115ad1cd964

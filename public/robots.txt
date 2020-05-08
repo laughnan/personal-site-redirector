@@ -1,0 +1,3 @@
+# robots welcome;
+User-Agent: *
+Disallow:
