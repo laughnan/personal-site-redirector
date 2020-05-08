@@ -1,5 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/249437b3-d0bd-4dc6-a283-09d41a4dc385/deploy-status)](https://app.netlify.com/sites/acreative-blog/deploys)
-
-# medium-blog-redirector
-
-> Redirects blog.acreative.io -> acreative.io/a (thank you for being weird medium)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e05f37b-7b1a-4283-94b5-002bd027c83e/deploy-status)](https://app.netlify.com/sites/admiring-ptolemy-e80e1f/deploys)
